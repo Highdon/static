@@ -21,7 +21,7 @@ $ npm i --save @maticnetwork/meta
 ### Usage
 
 ```javascript
-const Network = require("@maticnetwork/meta/network")
+const Network = vrequire("@maticnetwork/meta/network")
 
 // define network
 const network = new Network("testnet", "mumbai")
